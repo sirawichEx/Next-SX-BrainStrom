@@ -1,0 +1,6 @@
+{
+  "common": {
+    "hello": "Hello",
+    "nextjs": "Next.js Feature-Based Starter"
+  }
+}
